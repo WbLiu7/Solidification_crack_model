@@ -12,8 +12,11 @@ The corresponding Runtime could be automatically downloaded during the installat
 
 # Functions
 This software can be used to calculate three behaviors of binary alloys during solidification, including
+
 (1) Solidification curve;
+
 (2) Competition between stress accumulation and solid bridge strength growth at the root of dendrites;
+
 (3) Crack susceptibility.
 
 These calculations are based on the given material parameters and thermal conditions.
