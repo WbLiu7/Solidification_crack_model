@@ -1,4 +1,4 @@
-# Solidification_crack_model
+# Solidification_cracking_model
 A software for solidification cracking assessment.
 This software is based on our recently proposed solidification cracking model that considers solid bridge fracture:
 Liu, Wenbin, et al. "Modeling solidification cracking: A new perspective on solid bridge fracture", submitted.
