@@ -1,5 +1,6 @@
 # Solidification_crack_model
-A solidification cracking assessment software based on our recently proposed solidification cracking model that considers solid bridge fracture.
+A software for solidification cracking assessment.
+This software is based on our recently proposed solidification cracking model that considers solid bridge fracture:
 Liu, Wenbin, et al. "Modeling solidification cracking: A new perspective on solid bridge fracture", submitted.
 
 
@@ -10,7 +11,7 @@ The corresponding Runtime could be automatically downloaded during the installat
 
 
 # Functions
-This software can be used to calculate three behaviors of alloys during solidification, including
+This software can be used to calculate three behaviors of binary alloys during solidification, including
 (1) Solidification curve;
 (2) Competition between stress accumulation and solid bridge strength growth at the root of dendrites;
 (3) Crack susceptibility.
