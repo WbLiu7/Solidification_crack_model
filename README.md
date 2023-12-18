@@ -40,5 +40,8 @@ d_ave: average grain size
 phi: the parameter pertaining to the median of grain size distribution
 
 Besides the parameters listed above, the rest of material parameters that are not frequently adjusted needs to be loaded from a file. we offer an example of Al-Cu alloys.
-
+The following images show the software interface and some of calculations:
 ![Image text](https://github.com/WbLiu7/Solidification_crack_model/blob/main/image/1.png)
+![Image text](https://github.com/WbLiu7/Solidification_crack_model/blob/main/image/2.png)
+![Image text](https://github.com/WbLiu7/Solidification_crack_model/blob/main/image/3.png)
+![Image text](https://github.com/WbLiu7/Solidification_crack_model/blob/main/image/4.png)
