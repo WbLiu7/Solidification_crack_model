@@ -1,0 +1,8 @@
+1E+10	%Elastic_modulus
+50	%creep_parameter_A
+23.2E-6	%Thermal_expansion_coefficient
+10	%rate_sensitive_factor
+0.3	%state_function_parameter
+160e3	%Activation_energy
+8.314	%Gas_constant
+6.7	%diffusion_velocity
