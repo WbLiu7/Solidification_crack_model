@@ -2,6 +2,7 @@
 A software for solidification cracking assessment.
 This software is based on our recently proposed solidification cracking model that considers solid bridge fracture:
 Liu, Wenbin, et al. "Modeling solidification cracking: A new perspective on solid bridge fracture", J. Mech. Phys. Solids 188(2024), 105651.
+Liu, Wenbin, et al. "Solidification cracking of alloys: Revisiting physical models", in preparation.
 
 # Installation
 This software was built on the Matlab 2019, and its running needs the support from Matlab Runtime.
@@ -22,21 +23,21 @@ These calculations are based on the given material parameters and thermal condit
 
 
 # Parameters definition
-C0: the given solute concentration
-Max C0: the upper limit of C0 in the calculation of (3)
-alpha: the dimensionless back-diffusion parameter
-Tm: the melting tempearture of pure metals
-TE: the eutetic temperature
-CSM: the maximum solid solubility
-CE: the eutectic composition
-fs(coh): the solid fraction at the coherency point
-fs(brid): the solid fraction at the solid-bridging point
-sigma_0: the bridge strength at fs=1
-G: temperature gradient
-V: solidification velocity
-d: grain size
-d_ave: average grain size
-phi: the parameter pertaining to the median of grain size distribution
+C0: the given solute concentration  
+Max C0: the upper limit of C0 in the calculation of (3)  
+alpha: the dimensionless back-diffusion parameter  
+Tm: the melting tempearture of pure metals  
+TE: the eutetic temperature  
+CSM: the maximum solid solubility  
+CE: the eutectic composition  
+fs(coh): the solid fraction at the coherency point  
+fs(brid): the solid fraction at the solid-bridging point  
+sigma_0: the bridge strength at fs=1  
+G: temperature gradient  
+V: solidification velocity  
+d: grain size  
+d_ave: average grain size  
+phi: the parameter pertaining to the median of grain size distribution  
 
 Besides the parameters listed above, the rest of material parameters that are not frequently adjusted needs to be loaded from a file. we offer an example of Al-Cu alloys.
 The following images show the software interface and some of calculations:
