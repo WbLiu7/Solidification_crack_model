@@ -1,8 +1,8 @@
 # Solidification_cracking_model
 A software for solidification cracking assessment.
-This software is based on our recently proposed solidification cracking model that considers solid bridge fracture:
-Liu, Wenbin, et al. "Modeling solidification cracking: A new perspective on solid bridge fracture", J. Mech. Phys. Solids 188(2024), 105651.
-Liu, Wenbin, et al. "Solidification cracking of alloys: Revisiting physical models", in preparation.
+This software is based on our recently proposed solidification cracking model that considers solid bridge fracture:  
+Liu, Wenbin, et al. "Modeling solidification cracking: A new perspective on solid bridge fracture", J. Mech. Phys. Solids 188(2024), 105651.  
+Liu, Wenbin, et al. "Solidification cracking of alloys: Revisiting physical models", in preparation.  
 
 # Installation
 This software was built on the Matlab 2019, and its running needs the support from Matlab Runtime.
